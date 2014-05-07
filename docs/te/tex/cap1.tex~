@@ -3,19 +3,22 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 En la guía docente de la asignatura de Técnicas Experimentales de Primero de Grado en Matemáticas surge como una de las competencias básicas la realización de un experimento del que posteriormente se realizará un informe y una presentación. Para ello, los alumnos deben emplear las herramientas informáticas explicadas durante las clases.
 
-De este modo, el alumno debe analizar, sintetizar, evaluar y describir los datos obtenidos del estudio de la función propuesta. Escoger un intervalo específico, realizar las operaciones correspondientes al método de bisección y obtener un resultado que será, posteriormente, evaluado y analizado cuantitativamente de forma experimental. Representar gráficamente los resultados obtenidos, sintetizándolos y exponiéndolos de forma objetiva. Utilizar herramientas informáticas, programando en un lenguaje relevante para el cálculo científico (python, latex, beamer).
+De este modo, el alumno debe analizar, sintetizar, evaluar y describir los datos obtenidos del estudio de la función propuesta. Escoger un intervalo específico, realizar las operaciones correspondientes al método de bisección y obtener un resultado que será, posteriormente, evaluado y analizado cuantitativamente de forma experimental. Representar gráficamente los resultados obtenidos, sintetizándolos y exponiéndolos de forma objetiva. Utilizar herramientas informáticas, programando en un lenguaje relevante para el cálculo científico (python, \LaTeX{}, beamer).
+\begin{itemize}
+  \item {\bf Objetivo principal}: Implementación con Python del método de bisección.
+  \item {\bf Objetivo específico}: Cómo se aproximan las raíces de una función, mediante el método de bisección.
+\end{itemize}
 %---------------------------------------------------------------------------------
 \section{Objetivo Principal}
 \label{1:sec:1}
-
+El objetivo principal es implementar el algoritmo del método de bisección en un intervalo [a,b], tal que $f(a)*f(b)<0$:\medskip
+\begin{enumerate}
+\item Se toma $c=\frac{(b-a)}{2}$
+\item Si $b-a\le error$ se acepta c como la raíz y se para.
+\item Si $f(b)*f(c)\le0$, se toma $a=c$, por el contrario hacer $b=c$.
+\end{enumerate}
 %---------------------------------------------------------------------------------
 \section{Objetivo Específico}
 \label{1:sec:2}
-  Primer párrafo de la segunda sección.
-
-\begin{itemize}
-  \item Item 1
-  \item Item 2
-  \item Item 3
-\end{itemize}
-
+Mediante el método citado obtenemos la raíz única ($x=0$) de la función:
+\[f(x)=5^{x}-5\]
