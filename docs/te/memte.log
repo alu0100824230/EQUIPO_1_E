@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.19)  7 MAY 2014 16:46
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.5.23)  7 MAY 2014 17:44
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -202,23 +202,26 @@ Cap\'{\i }tulo 1.
 
 ]
 Cap\'{\i }tulo 2.
-(./tex/cap2.tex) [2
+(./tex/cap2.tex
+Underfull \vbox (badness 1112) has occurred while \output is active []
 
-]
+ [2
+
+])
+[3]
 Cap\'{\i }tulo 3.
 (./tex/cap3.tex
 File: images/figura1.eps Graphic file (type eps)
- <images/figura1.eps> (./tables/table.tex)) [3
+ <images/figura1.eps> (./tables/table.tex)) [4
 
-] [4]
+] [5]
 Cap\'{\i }tulo 4.
-(./tex/cap4.tex) [5
-
-] [6
+(./tex/cap4.tex) [6
 
 ]
 Ap\'{e}ndice A.
 (./tex/apendice1.tex) [7
+
 
 ]
 Ap\'{e}ndice B.
@@ -228,12 +231,12 @@ Ap\'{e}ndice B.
 
 ] (./memte.aux) ) 
 Here is how much of TeX's memory you used:
- 1764 strings out of 495062
- 21361 string characters out of 1182644
+ 1766 strings out of 495062
+ 21387 string characters out of 1182644
  76798 words of memory out of 3000000
- 4896 multiletter control sequences out of 15000+50000
- 13237 words of font info for 48 fonts, out of 3000000 for 9000
+ 4898 multiletter control sequences out of 15000+50000
+ 13842 words of font info for 50 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,8n,27p,617b,286s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,8n,27p,634b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on memte.dvi (17 pages, 17316 bytes).
+Output written on memte.dvi (17 pages, 20888 bytes).

@@ -3,14 +3,16 @@
 \contentsline {section}{\numberline {1.1}Objetivo Principal}{1}
 \contentsline {section}{\numberline {1.2}Objetivo Espec\IeC {\'\i }fico}{1}
 \contentsline {chapter}{\numberline {2}Fundamentos te\'oricos}{2}
-\contentsline {section}{\numberline {2.1}Primer apartado del segundo cap\IeC {\'\i }tulo}{2}
-\contentsline {section}{\numberline {2.2}Segundo apartado del segundo cap\IeC {\'\i }tulo}{2}
-\contentsline {chapter}{\numberline {3}Procedimiento experimental}{3}
-\contentsline {section}{\numberline {3.1}Descripci\'on de los experimentos}{3}
-\contentsline {section}{\numberline {3.2}Descripci\'on del material}{3}
-\contentsline {section}{\numberline {3.3}Resultados obtenidos}{3}
-\contentsline {section}{\numberline {3.4}An\'alisis de los resultados}{3}
-\contentsline {chapter}{\numberline {4}Conclusiones}{5}
+\contentsline {section}{\numberline {2.1}Teorema de Bolzano}{2}
+\contentsline {subsection}{\numberline {2.1.1}Demostraci\'on Teorema de Bolzano}{2}
+\contentsline {section}{\numberline {2.2}Teorema del Valor Intermedio}{3}
+\contentsline {subsection}{\numberline {2.2.1}Demostraci\'on Teorema del Valor Intermedio}{3}
+\contentsline {chapter}{\numberline {3}Procedimiento experimental}{4}
+\contentsline {section}{\numberline {3.1}Descripci\'on de los experimentos}{4}
+\contentsline {section}{\numberline {3.2}Descripci\'on del material}{4}
+\contentsline {section}{\numberline {3.3}Resultados obtenidos}{4}
+\contentsline {section}{\numberline {3.4}An\'alisis de los resultados}{4}
+\contentsline {chapter}{\numberline {4}Conclusiones}{6}
 \contentsline {chapter}{\numberline {A}T\IeC {\'\i }tulo del Ap\'endice 1}{7}
 \contentsline {section}{\numberline {A.1}Algoritmo XXX}{7}
 \contentsline {section}{\numberline {A.2}Algoritmo YYY}{7}
