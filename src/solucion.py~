@@ -1,5 +1,7 @@
 #! /usr/bin/python
 #!encoding: UTF-8
+import time
+import timeit
 
 def f(x):
   return (5**x)-5
@@ -23,7 +25,10 @@ else:
   B=float(raw_input("Introduzca el extremo b del intervalo: "))
   TOL=float(raw_input("Introduzca la tolerancia del error que desee: "))
 if f(A)*f(B)<0.000001:
+  start=time.time()
   raiz=biseccion(A,B,TOL)
+  finish=time.time()-start
+  print finish
   print "La raíz aproximada de la función escogida es: %4.3f" %raiz
 else:
   print "En ese intervalo no existe raíz, por favor vuelva a ejecutar el programa con otros valores"
