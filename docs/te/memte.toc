@@ -7,6 +7,7 @@
 \contentsline {subsection}{\numberline {2.1.1}Demostraci\'on Teorema de Bolzano}{2}
 \contentsline {section}{\numberline {2.2}Teorema del Valor Intermedio}{3}
 \contentsline {subsection}{\numberline {2.2.1}Demostraci\'on Teorema del Valor Intermedio}{3}
+\contentsline {section}{\numberline {2.3}Gr\'afica}{3}
 \contentsline {chapter}{\numberline {3}Procedimiento experimental}{4}
 \contentsline {section}{\numberline {3.1}Descripci\'on de los experimentos}{4}
 \contentsline {section}{\numberline {3.2}Descripci\'on del material}{4}
