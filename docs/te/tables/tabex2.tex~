@@ -1,0 +1,13 @@
+\begin{table}[!h]
+\begin{center}
+\begin{tabular}{|c|c|}\hline
+{\bf Funcion} & {\bf Resultado}\\ \hline
+$5^x$ & Error\\%No hay raíces en el intervalo
+$5x-5$ & 1.969\\
+$3x^2-1$ & Error\\%La función escogida tiene más de dos raíces posibles
+\hline
+\end{tabular}
+\end{center}
+\caption{Tabla experimento 2}
+\label{Mitabla2}
+\end{table}

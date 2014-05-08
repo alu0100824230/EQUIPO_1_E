@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.5.23)  8 MAY 2014 14:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.19)  8 MAY 2014 18:05
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -172,19 +172,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [2
 
-] (./memte.toc)
+] (./memte.toc [1
+
+])
 \tf@toc=\write3
 \openout3 = `memte.toc'.
 
- [1
-
-] [2
-
-] (./memte.lof)
+ [2] (./memte.lof)
 \tf@lof=\write4
 \openout4 = `memte.lof'.
 
  [3
+
 
 ] [4
 
@@ -212,33 +211,36 @@ File: grafcap2.eps Graphic file (type eps)
 
 <grafcap2.eps>) [3]
 Cap\'{\i }tulo 3.
-(./tex/cap3.tex
-File: images/figura1.eps Graphic file (type eps)
- <images/figura1.eps> (./tables/table.tex)) [4
+(./tex/cap3.tex [4
 
-] [5]
+] [5] (./tables/tabex1.tex) (./tables/tabex2.tex)
+(./tables/tabex3.tex) (./tables/tabex4.tex) (./tables/table.tex)
+File: images/figura1.eps Graphic file (type eps)
+
+<images/figura1.eps> [6] [7]) [8]
 Cap\'{\i }tulo 4.
-(./tex/cap4.tex) [6
+(./tex/cap4.tex) [9
+
+] [10
 
 ]
 Ap\'{e}ndice A.
-(./tex/apendice1.tex) [7
-
+(./tex/apendice1.tex) [11
 
 ]
 Ap\'{e}ndice B.
-(./tex/apendice2.tex) (./memte.bbl [8
+(./tex/apendice2.tex) (./memte.bbl [12
 
-]) [9
+]) [13
 
 ] (./memte.aux) ) 
 Here is how much of TeX's memory you used:
- 1768 strings out of 495062
- 21411 string characters out of 1182644
- 76798 words of memory out of 3000000
- 4899 multiletter control sequences out of 15000+50000
+ 1796 strings out of 495062
+ 21802 string characters out of 1182644
+ 78798 words of memory out of 3000000
+ 4915 multiletter control sequences out of 15000+50000
  13842 words of font info for 50 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,8n,27p,634b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,9n,27p,781b,371s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on memte.dvi (17 pages, 21764 bytes).
+Output written on memte.dvi (21 pages, 36928 bytes).
