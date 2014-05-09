@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.19)  8 MAY 2014 18:05
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.19)  9 MAY 2014 11:51
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -170,7 +170,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 114.
  [1
 
-] [2
+] [1] [2
 
 ] (./memte.toc [1
 
@@ -178,7 +178,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `memte.toc'.
 
- [2] (./memte.lof)
+ [2]
+(./memte.lof)
 \tf@lof=\write4
 \openout4 = `memte.lof'.
 
@@ -229,18 +230,42 @@ Ap\'{e}ndice A.
 
 ]
 Ap\'{e}ndice B.
-(./tex/apendice2.tex) (./memte.bbl [12
+(./tex/apendice2.tex) (./tex/biblio.tex [12
 
-]) [13
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\OT1/cmr/m/n/10.95 Spivak, M.[]Calculus, Ed. Cam-bridge, 2006; Ed. Re-
+ []
+
+
+Overfull \hbox (193.20828pt too wide) in paragraph at lines 17--18
+[]$\OML/cmm/m/it/10 http \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 ==campusvirtual:ull
+:es=\OT1/cmr/m/n/10 1314\OML/cmm/m/it/10 =pluginfile:php=\OT1/cmr/m/n/10 197675
+\OML/cmm/m/it/10 =mod[]esource=content=\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 =Prime
+ra[]arte=General\OT1/cmr/m/n/10 2012\OML/cmm/m/it/10 =Python[]ara[]odos:pdf$ 
+ []
+
+
+Overfull \hbox (62.30199pt too wide) in paragraph at lines 21--22
+[]$\OML/cmm/m/it/10 http \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 ==campusvirtual:ull
+:es=\OT1/cmr/m/n/10 1314\OML/cmm/m/it/10 =pluginfile:php=\OT1/cmr/m/n/10 197674
+\OML/cmm/m/it/10 =mod[]esource=content=\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 =beame
+ruserguide:pdf$ 
+ []
+
+) [13
 
 ] (./memte.aux) ) 
 Here is how much of TeX's memory you used:
- 1796 strings out of 495062
- 21802 string characters out of 1182644
+ 1797 strings out of 495062
+ 21832 string characters out of 1182644
  78798 words of memory out of 3000000
- 4915 multiletter control sequences out of 15000+50000
- 13842 words of font info for 50 fonts, out of 3000000 for 9000
+ 4917 multiletter control sequences out of 15000+50000
+ 13490 words of font info for 49 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  25i,9n,27p,781b,371s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on memte.dvi (21 pages, 36928 bytes).
+Output written on memte.dvi (22 pages, 39688 bytes).

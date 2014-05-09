@@ -9,14 +9,11 @@
 \bibitem[M\'etodo de Bisecci\'on]{web}
   Demostraci\'on del M\'etodo de Bisecci\'on.
   (2008)
-  
   {\small $http://www.ma3.upc.edu/users/carmona/teaching/clases/08-09/trabajos/$}
 \bibitem[Tutorial de Python]{python}
   Python para todos. ~-Ra\'ul Gonz\'alez Duque.
-  
   {\small $http://campusvirtual.ull.es/1314/pluginfile.php/197675/mod_resource/content/4/Primera_Parte/General2012/Python_para_todos.pdf$}
 \bibitem[Tutorial de \LaTeX{}]{latex}
   The beamer class. ~User Guide for version 3.26.
-  
   {\small $http://campusvirtual.ull.es/1314/pluginfile.php/197674/mod_resource/content/1/beameruserguide.pdf$}
 \end{thebibliography}
