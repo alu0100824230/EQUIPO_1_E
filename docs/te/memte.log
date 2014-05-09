@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.7.26)  9 MAY 2014 14:58
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.7.26)  9 MAY 2014 15:04
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -227,17 +227,26 @@ Cap\'{\i }tulo 4.
 ]
 Ap\'{e}ndice A.
 (./tex/apendice1.tex
-Overfull \hbox (267.77559pt too wide) in paragraph at lines 77--77
+Overfull \hbox (45.70317pt too wide) in paragraph at lines 42--42
+[]  \OT1/cmtt/m/n/9 print "En ese intervalo no existe ra[]A-z, por favor vuelva
+ a ejecutar el programa con otros valores"[] 
+ []
+
+
+Underfull \vbox (badness 7379) has occurred while \output is active []
+
+ [11
+
+]
+Overfull \hbox (267.77559pt too wide) in paragraph at lines 111--111
 []  \OT1/cmtt/m/n/9 softinfo={'Several': platform.uname() , 'S.O':platform.plat
 form(), 'Pythons Version': platform.python_version() , 'Date':platform.python_b
 uild()}[] 
  []
 
-[11
-
-]) [12]
+[12]) [13]
 Ap\'{e}ndice B.
-(./tex/apendice2.tex) (./tex/biblio.tex [13
+(./tex/apendice2.tex) (./tex/biblio.tex [14
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -263,7 +272,7 @@ Overfull \hbox (62.30199pt too wide) in paragraph at lines 21--22
 ruserguide:pdf$ 
  []
 
-) [14
+) [15
 
 ] (./memte.aux)
 
@@ -271,12 +280,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 1798 strings out of 495062
- 21848 string characters out of 1182644
+ 1801 strings out of 495062
+ 21918 string characters out of 1182644
  78798 words of memory out of 3000000
- 4918 multiletter control sequences out of 15000+50000
+ 4921 multiletter control sequences out of 15000+50000
  13490 words of font info for 49 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,9n,27p,781b,375s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,9n,27p,781b,497s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on memte.dvi (23 pages, 41172 bytes).
+Output written on memte.dvi (24 pages, 42300 bytes).

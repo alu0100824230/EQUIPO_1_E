@@ -25,9 +25,9 @@
 \contentsline {subsection}{\numberline {3.4.5}Experimento 5}{8}
 \contentsline {chapter}{\numberline {4}Conclusiones}{9}
 \contentsline {chapter}{\numberline {A}T\IeC {\'\i }tulo del Ap\'endice 1}{11}
-\contentsline {section}{\numberline {A.1}Algoritmo XXX}{11}
-\contentsline {section}{\numberline {A.2}Algoritmo YYY}{11}
-\contentsline {chapter}{\numberline {B}T\IeC {\'\i }tulo del Ap\'endice 2}{13}
-\contentsline {section}{\numberline {B.1}Otro apendice: Seccion 1}{13}
-\contentsline {section}{\numberline {B.2}Otro apendice: Seccion 2}{13}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{13}
+\contentsline {section}{\numberline {A.1}Algoritmo Metodo de Biseccion}{11}
+\contentsline {section}{\numberline {A.2}Algoritmo Hardware y Software}{12}
+\contentsline {chapter}{\numberline {B}T\IeC {\'\i }tulo del Ap\'endice 2}{14}
+\contentsline {section}{\numberline {B.1}Otro apendice: Seccion 1}{14}
+\contentsline {section}{\numberline {B.2}Otro apendice: Seccion 2}{14}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{14}

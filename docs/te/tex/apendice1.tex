@@ -1,16 +1,50 @@
-\section{Algoritmo XXX}
-\label{Apendice1:XXX}
+\section{Algoritmo Metodo de Biseccion}
+\label{Apendice1:Metodo de Biseccion}
 
 \begin{center}
 \begin{footnotesize}
 \begin{verbatim}
+#! /usr/bin/python
+#!encoding: UTF-8
+import time
+import timeit
 
+def f(x):
+  return (5**x)-5
+def biseccion(a,b,tol):
+  c=(a+b)/2.0
+  while((f(c)!=0.000001) and (abs(b-a)>tol)):
+    if f(a)*f(c)<0.000001:
+      b=c
+    else:
+      a=c
+    c=(a+b)/2.0
+  return c
+
+import sys
+if (len(sys.argv)==4):
+  A=float(sys.argv[1])
+  B=float(sys.argv[2])
+  TOL=float(sys.argv[3]) 
+else:
+  A=float(raw_input("Introduzca el extremo a del intervalo: "))
+  B=float(raw_input("Introduzca el extremo b del intervalo: "))
+  TOL=float(raw_input("Introduzca la tolerancia del error que desee: "))
+if f(A)*f(B)<0.000001:
+  start=time.time()
+  raiz=biseccion(A,B,TOL)
+  finish=time.time()-start
+  print "El tiempo de ejecucion es:"
+  print finish
+  print "La raiz aproximada de la funcion escogida es: %4.3f" %raiz
+else:
+  print "En ese intervalo no existe raíz, por favor vuelva a ejecutar el programa con otros valores"
 \end{verbatim}
 \end{footnotesize}
 \end{center}
 
-\section{Algoritmo YYY}
-\label{Apendice1:YYY}
+\section{Algoritmo Hardware y Software}
+\label{Apendice1:Hardware y Software}
 
 \begin{center}
 \begin{footnotesize}
