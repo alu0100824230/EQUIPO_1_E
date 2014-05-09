@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.7.26)  9 MAY 2014 15:21
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.7.26)  9 MAY 2014 16:07
 entering extended mode
  %&-line parsing enabled.
 **memte.tex
@@ -202,15 +202,11 @@ Cap\'{\i }tulo 1.
 
 ]
 Cap\'{\i }tulo 2.
-(./tex/cap2.tex
-Underfull \vbox (badness 1112) has occurred while \output is active []
-
- [2
+(./tex/cap2.tex [2
 
 ]
 File: images/grafcap2.eps Graphic file (type eps)
-
-<images/grafcap2.eps>) [3]
+ <images/grafcap2.eps>) [3]
 Cap\'{\i }tulo 3.
 (./tex/cap3.tex [4
 
@@ -218,7 +214,11 @@ Cap\'{\i }tulo 3.
 (./tables/tabex3.tex) (./tables/tabex4.tex) (./tables/table.tex)
 File: images/graftime.eps Graphic file (type eps)
 
-<images/graftime.eps> [6] [7]) [8]
+<images/graftime.eps>
+Underfull \vbox (badness 1817) has occurred while \output is active []
+
+ [6]
+[7]) [8]
 Cap\'{\i }tulo 4.
 (./tex/cap4.tex) [9
 
@@ -278,10 +278,10 @@ ruserguide:pdf$
 Here is how much of TeX's memory you used:
  1799 strings out of 495062
  21895 string characters out of 1182644
- 78798 words of memory out of 3000000
+ 77798 words of memory out of 3000000
  4919 multiletter control sequences out of 15000+50000
  13490 words of font info for 49 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,9n,27p,781b,497s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,9n,27p,770b,497s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on memte.dvi (25 pages, 43460 bytes).
+Output written on memte.dvi (25 pages, 43488 bytes).

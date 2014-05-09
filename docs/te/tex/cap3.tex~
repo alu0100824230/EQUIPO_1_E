@@ -10,10 +10,10 @@ Esta investigación consiste en la búsqueda de raíces mediante el método de bisec
 %++++++++++++++++++++++++++++++++++++++++++
 \subsection{Experimento 1}
 \label{3:sec:1:sec:1}
-Con el fin de verificar la precisión del algoritmo propuesto, se ejecuta con los mismos valores (intervalo $(-2,2)$ y umbral 0.1) y la misma función ($f(x)=5^x-5$) tres veces. De esta forma, si los resultados coinciden significará que es exacto.
+Con el fin de verificar la precisión del algoritmo propuesto, se ejecuta con los mismos valores (intervalo $(-2,2)$ y umbral 0.1) y la misma función ($f(x)=5^x-5$) tres veces. De esta forma, si los resultados coinciden, significará que es exacto.
 \begin{itemize}
-\item {\bf Paso 1}: Se introducen en el terminal de la computadora el comando que permite llamar al intérprete de python para ejecutar el algoritmo solucion.py.
-\item {\bf Paso 2}: A continuación de lo anterior, en el terminal, introducimos los valores -2, 2 y 0.1.
+\item {\bf Paso 1}: Se introduce en la terminal de la computadora el comando que permite llamar al intérprete de python para ejecutar el algoritmo solucion.py.
+\item {\bf Paso 2}: A continuación, en el terminal, introducimos los valores -2, 2 y 0.1.
 \item {\bf Paso 3}: Se ejecuta el programa.
 \end{itemize}
 Se repite este procedimiento cuantas veces sea necesario, en este caso han sido 3.
@@ -21,39 +21,39 @@ Se repite este procedimiento cuantas veces sea necesario, en este caso han sido 
 %++++++++++++++++++++++++++++++++++++++++++
 \subsection{Experimento 2}
 \label{3:sec:1:sec:2}
-A continuación, se ejecutará el algoritmo con distintas funciones para así demostrar que es válido para cualquier $f(x)$. Tomando el intervalo $(-2,2)$ y un umbral de 0.1.
+A continuación, se ejecutará el algoritmo con distintas funciones, para así demostrar que es válido para cualquier $f(x)$. Se toma el intervalo $(-2,2)$ y un umbral de 0.1.
 \begin{itemize}
-\item {\bf Paso 1}: Se cambia dentro de la función f del algoritmo solucion.py en la línea 5 la $f(x)$ que se quiera.  
-\item {\bf Paso 2}: Se introducen en el terminal de la computadora el comando que permite llamar al intérprete de python para ejecutar el algoritmo solucion.py.
-\item {\bf Paso 3}: A continuación de lo anterior, en el terminal, introducimos los valores -2, 2 y 0.1.
+\item {\bf Paso 1}: Se cambia, dentro del algoritmo solucion.py, la función f de la línea 5, introduciéndose la $f(x)$ que se quiera.  
+\item {\bf Paso 2}: Se introduce, en la terminal de la computadora, el comando que permite llamar al intérprete de python para ejecutar el algoritmo solucion.py.
+\item {\bf Paso 3}: A continuación, en la terminal, introducimos los valores -2, 2 y 0.1.
 \item {\bf Paso 4}: Se ejecuta el programa.
 \end{itemize}
-Se repite este procedimiento con las funciones que queramos.
+Se repite este procedimiento con las funciones que se desee.
 
 %+++++++++++++++++++++++++++++++++++++++
 \subsection{Experimento 3}
 \label{3:sec:1:sec:3}
 En este tercer experimento se ejecutará el programa con distintos intervalos para verificar la existencia de raíces en los mismos. Tomamos la función $f(x)=5^x-5$ y el umbral 0.1.
 \begin{itemize}
-\item {\bf Paso 1}: Se introducen en el terminal de la computadora el comando que permite llamar al intérprete de python para ejecutar el algoritmo solucion.py.
-\item {\bf Paso 2}: A continuación de lo anterior, en el terminal, introducimos los intervalos que se desee y el umbral 0.1.
+\item {\bf Paso 1}: Se introduce, en la terminal de la computadora, el comando que permite llamar al intérprete de python para ejecutar el algoritmo solucion.py.
+\item {\bf Paso 2}: A continuación, en la terminal, introducimos los intervalos que se desee y el umbral 0.1.
 \item {\bf Paso 3}: Se ejecuta el programa.
 \end{itemize}
 
 %++++++++++++++++++++++++++++++++++++++++
 \subsection{Experimento 4}
 \label{3:sec:1:sec:4}
-Se observa cómo varían las soluciones obtenidas con distintos valores de tolerancia de error realizamos los siguientes pasos:
+Se quiere observar cómo varían las soluciones obtenidas con distintos valores de tolerancia de error. Para ello, se siguen los siguientes pasos:
 \begin{itemize}
-\item {\bf Paso 1}: Se introducen en el terminal de la computadora el comando que permite llamar al intérprete de python para ejecutar el algoritmo solucion.py.
-\item {\bf Paso 2}: A continuación de lo anterior, en el terminal, introducimos el intervalo (-2,2) y los distintos umbrales que deseemos.
+\item {\bf Paso 1}: Se introduce, en la terminal de la computadora, el comando que permite llamar al intérprete de python para ejecutar el algoritmo solucion.py.
+\item {\bf Paso 2}: A continuación, en la terminal, introducimos el intervalo (-2,2) y los distintos umbrales que deseemos.
 \item {\bf Paso 3}: Se ejecuta el programa.
 \end{itemize}
 
 %+++++++++++++++++++++++++++++++++++++++
 \subsection{Experimento 5}
 \label{3:sec:1:sec:5}
-Para determinar el rendimiento del algoritmo, se introduce un cronómetro en el mismo de forma que imprimiera el tiempo que tarda la CPU de la computadora en ejecutar el programa. 
+Para determinar el rendimiento del algoritmo, se introduce un cronómetro en el mismo, de forma que imprima el tiempo que tarda la CPU de la computadora en ejecutar el programa. 
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 \section{Descripción del material}
@@ -79,7 +79,7 @@ Para realizar los distintos experimentos propuestos se han utilizado como materi
 \begin{figure}[!th]
 \begin{center}
 \includegraphics[width=0.75\textwidth]{images/graftime.eps}
-\caption{Ejemplo de figura}
+\caption{Gráfica del tiempo}
 \label{fig:2}
 \end{center}
 \end{figure}
@@ -91,16 +91,16 @@ Para realizar los distintos experimentos propuestos se han utilizado como materi
 \label{3:sec:4}
 \subsection{Experimento 1}
 \label{3:sec:4:sec:1}
-En este caso, se obtuvo el mismo resultado al ejecutar tres veces el algoritmo con los mismos parámetros, de esta forma se verifica que el programa implementado en Python es exacto. Los valores escogidos fueron: el intervalo (-2,2), el umbral 0.1 y la función $f(x)=5^x-5$, al aplicarlos se obtiene siempre que el valor aproximado de la raíz de dicha función es: 0.969.
+En este caso, se obtuvo el mismo resultado al ejecutar tres veces el algoritmo. Se usaron los mismos parámetros para verificar que el programa implementado en Python sea exacto. Los valores escogidos fueron: el intervalo (-2,2), el umbral 0.1 y la función $f(x)=5^x-5$. Al aplicarlos, se obtiene siempre que el valor aproximado de la raíz de dicha función es: 0.969.
 \subsection{Experimento 2}
 \label{3:sec:4:sec:2}
-En este experimento, se ha realizado la prueba con tres funciones distintas. En primer lugar, con la función $f(x)=5^x$, y el programa ha dado como salida un error, debido a que dicha función no posee ninguna raíz posible. En segundo lugar, se empleó la función $f(x)=5x-10$, en este caso sí que se obtuvo una aproximación de la raíz: 1.969, con esto se verifica que el programa es válido para esta función. No obstante, en la última prueba realizada con la función $f(x)=3x^2-1$, el programa vuelve a devolver un error, ya que dicha función poseé dos raíces posibles. Así, si se escoge un intervalo en el que sólo exista una raíz de f(x) sí la aproximará, de lo contrario, si están las dos en el mismo intervalo no funciona el algoritmo.
+En este experimento, se realiza la prueba con tres funciones distintas. En primer lugar, con la función $f(x)=5^x$; el programa da como salida un error, debido a que dicha función no posee ninguna raíz posible. En segundo lugar, se emplea la función $f(x)=5x-10$; en este caso sí que se obtuvo una aproximación de la raíz: 1.969, verificándose así la validez del programa para esta función. No obstante, en la última prueba realizada, con la función $f(x)=3x^2-1$, el programa vuelve a devolver un error, ya que dicha función posee dos raíces. Así, si se escoge un intervalo en el que sólo existe una raíz de f(x), ésta será aproximada. De lo contrario, si las dos se encuentran en el mismo intervalo, no funciona el algoritmo.
 \subsection{Experimento 3}
 \label{3:sec:4:sec:3}
-En el tercer experimento se ejecutó el programa con distintos intervalos para ver la fiabilidad del algoritmo a la hora de aproximar la raíz de la función $f(x)=5^x-5$. Así, al poner el intervalo (-3,2) se obtuvo el resultado 1.023 y con el intervalo (-2,3) el resultado 1.008, de esta forma vemos como los valores de las raíces no varían excesivamente. Sin embargo, al introducir el intervalo (2,5) se produce un error ya que la función empleada no tiene una raíz en dicho intervalo.
+En el tercer experimento, se ejecuta el programa con distintos intervalos. Así se ve la fiabilidad del algoritmo a la hora de aproximar la raíz de la función $f(x)=5^x-5$. Al poner el intervalo (-3,2) se obtiene el resultado 1.023 y con el intervalo (-2,3) el resultado 1.008. De esta forma, vemos como los valores de las raíces no varían excesivamente. Sin embargo, al introducir el intervalo (2,5), se produce un error. Esto se debe a que la función empleada no tiene una raíz en dicho intervalo.
 \subsection{Experimento 4}
 \label{3:sec:4:sec:4}
-En esta ocasión, el experimento consistía en modificar el valor del umbral y así comprobar la precisión del programa. Asimismo, al introducir 0.01,0.02,0.001 se obtienen como resultados: 0.996,0.992 y 1.00 respectivamente. Como conclusión, se puede observar como el umbral más preciso es el 0.001 seguido de 0.01 y finalmente 0.02, por ello, cuanto menor sea el valor de la tolerancia del error mejor será la aproximación de la raíz de la función.
+En esta ocasión, el experimento consiste en modificar el valor del umbral, y así comprobar la precisión del programa. Asimismo, al introducir 0.01,0.02 y 0.001 se obtienen como resultados: 0.996,0.992 y 1.00, respectivamente. Como conclusión, se puede observar que el umbral más preciso es el 0.001 seguido de 0.01 y finalmente 0.02. De este modo, cuanto menor sea el valor de la tolerancia del error, mejor será la aproximación de la raíz de la función.
 \subsection{Experimento 5}
 \label{3:sec:4:sec:5}
-Finalmente, este último experimento trataba de mostrar el rendimiento del programa. Para ello, primero ejecutamos el programa haciendo que nos pidiera los valores con los que se iba a ejecutar, en este caso el tiempo empleado fue $2.8133*10^-5$ segundos. Seguidamente, introduciendo los valores mediante la consola sin que el programa nos los pidiera, el tiempo  fue de $2.4080*10^-5$ segundos. Por último, introduciendo nuevamente los valores mediante la consola, lo que se llevó a cabo fue la sustitución del intervalo (-2,2) por (-10,10) en el algoritmo, con vistas de observar si aumentaba el tiempo de ejecución al probarlo con un intervalo mayor, efectivamente lo hizo, obteniéndose un tiempo de $3.1948*10^-5$.    
+Finalmente, este último experimento trata de mostrar el rendimiento del programa. Para ello, primero se ejecuta el programa, pidiéndonos éste los valores con los que se va a ejecutar. En este caso, el tiempo empleado es $2.8133*10^-5$ segundos. Seguidamente, al introducir los valores mediante la consola, sin que el programa nos los pida, el tiempo es de $2.4080*10^-5$ segundos. Por último, introduciendo nuevamente los valores mediante la consola, se lleva a cabo la sustitución del intervalo (-2,2) por (-10,10) en el algoritmo. Así, al ejecutarse con un intervalo mayor, se podrá observar si se incrementa el tiempo de ejecución. Efectivamente, así es, obteniéndose un tiempo de $3.1948*10^-5$.    

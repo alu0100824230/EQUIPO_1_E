@@ -4,9 +4,9 @@
 
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-El método de la bisección se basa en dos teoremas, el de Bolzano y el del Valor Intermedio que explicaremos a continuación, y es empleado para aproximar ceros de funciones.
+El método de la bisección se basa en dos teoremas, el de Bolzano y el del Valor Intermedio, que explicaremos a continuación. Éste es empleado para aproximar ceros de funciones.
 
-Supongamos que queremos encontrar las raíces de una función $f(x)$ continua. Dados dos puntos a y b, tal que $f(a)$ y $f(b)$ tengan signos distintos, sabemos por el Teorema de Bolzano que $f(x)$ debe tener, al menos, una raíz en el intervalo [a,b]. Este método divide el intervalo en dos utilizando un tercer punto c= $\frac{a+b}{2}$. De esta forma, se darán dos posibilidades: $f(a)$ y $f(c)$, ó $f(c)$ y $f(b)$ tienen distinto signo. Se aplica este método al subintervalo donde ocurre el cambio de signo. Así se realizará tantas vecse como sea necesario para conseguir la máxima precisión.
+Supongamos que queremos encontrar las raíces de una función $f(x)$ continua. Dados dos puntos a y b, tal que $f(a)$ y $f(b)$ tengan signos distintos, sabemos por el Teorema de Bolzano que $f(x)$ debe tener, al menos, una raíz en el intervalo [a,b]. Este método divide el intervalo en dos, utilizando un tercer punto c$= \frac{a+b}{2}$. De esta forma, se darán dos posibilidades: $f(a)$ y $f(c)$, ó $f(c)$ y $f(b)$ tienen distinto signo. Se aplica este método al subintervalo donde ocurre el cambio de signo. Así, se realizará tantas veces como sea necesario para conseguir la máxima precisión.
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 \section{Teorema de Bolzano}
@@ -14,20 +14,20 @@ Supongamos que queremos encontrar las raíces de una función $f(x)$ continua. Dad
 Sea $f(x)$ una función continua en un intervalo [a,b] tal que $f(a)*f(b)<0$, entonces existe un punto c perteneciente al intervalo (a,b) tal que $f(c)=0$
 \subsection{Demostración Teorema de Bolzano}
 \label{2:sec:1:sec:1}
-Supongamos que $f(a)<0$ y $f(b)>0$. Sea A el conjunto formado por todos los valores x tal que x pertenece al intervalo [a,b] para los que $f(x)<0$. El conjunto A está acotado superiormente por b, y además, no es vació ya que a pertenece a A. Por ello el conjunto A tiene un extremo superior c. Se cumple que $f(c)=0$. Veámoslo:
+Supongamos que $f(a)<0$ y $f(b)>0$. Sea A el conjunto formado por todos los valores x tal que x pertenece al intervalo [a,b] para los que $f(x)<0$. El conjunto A está acotado superiormente por b y, además, no es vacío, ya que a pertenece a A. Por ello el conjunto A tiene un extremo superior c. Se cumple que $f(c)=0$. Veámoslo:
 
-Si $f(c)>0$, entonces por la propiedad de la conservación del signo de las funciones continuas existiría un intervalo $(c-\alpha, c+\alpha)$ en el que la función sería también positiva. En este caso existirían valores menores que c que servirían de cota superior de A y por ello c no sería el extremo superior de A como hemos supuesto. 
+Si $f(c)>0$, entonces por la propiedad de la conservación del signo de las funciones continuas existiría un intervalo $(c-\alpha, c+\alpha)$ en el que la función sería también positiva. En este caso, existirían valores menores que c que servirían de cota superior de A y por ello c no sería el extremo superior de A, como hemos supuesto. 
 
-Si $f(c)<0$, entonces existiría un intervalo $(c-\alpha, c+\alpha)$ en el que la función sería negativa y por tanto existían valores de x a la derecha de c para los que la función sería negativa y por tanto c no sería extremo superior de A. De este modo, $f(c)$ tiene que tomar el valor cero: $f(c)=0$.
+Si $f(c)<0$, entonces existiría un intervalo $(c-\alpha, c+\alpha)$ en el que la función sería negativa y, por tanto, existirían valores de x a la derecha de c para los que la función sería negativa. Consecuentemente, c no sería extremo superior de A. De este modo, $f(c)$ tiene que tomar el valor cero: $f(c)=0$.
 
 \section{Teorema del Valor Intermedio}
 \label{2:sec:2}
 Sea $f(x)$ una función continua en un intervalo [a,b], tal que $f(a)<f(b)$ entonces, para todo k tal que $f(a)<k<f(b)$ existe $x_0$ que pertenece al intervalo (a,b) tal que $f(x_0)=k$.
 \subsection{Demostración Teorema del Valor Intermedio}
 \label{2:sec:2:sec:1}
- Para la demostración aplicamos el Teorema de Bolzano en la función $g(x)=f(x)-k$, la cual es continua por serlo $f(x)$, $g(a)<0$ y $g(b)>0$. El teorema nos permite afirmar que existirá un c perteneciente al intervalo (a,b) tal que $g(c)=0$ y en consecuencia $f(c)=k$.
+ Para la demostración aplicamos el Teorema de Bolzano en la función $g(x)=f(x)-k$, la cual es continua por serlo $f(x)$, $g(a)<0$ y $g(b)>0$. El teorema nos permite afirmar que existirá un c perteneciente al intervalo (a,b) tal que $g(c)=0$, y en consecuencia $f(c)=k$.
 \section{Gráfica}
-En esta gráfica reflejamos los resultados teóricos esperados tras realizar los experimentos propuestos en el siguiente capítulo. Podemos observar como la función $f(x)=5^x-5$ tiene una raíz en el punto $(1,0)$.
+En esta gráfica reflejamos los resultados teóricos esperados tras realizar los experimentos propuestos en el siguiente capítulo. Podemos observar cómo la función $f(x)=5^x-5$ tiene una raíz en el punto $(1,0)$.
 
 \begin{figure}[!th]
 \begin{center}

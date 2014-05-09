@@ -6,7 +6,7 @@
 
 El método de la bisección se basa en dos teoremas, el de Bolzano y el del Valor Intermedio que explicaremos a continuación, y es empleado para aproximar ceros de funciones.
 
-Supongamos que queremos encontrar las raíces de una función $f(x)$ continua. Dados dos puntos a y b, tal que $f(a)$ y $f(b)$ tengan signos distintos, sabemos por el Teorema de Bolzano que $f(x)$ debe tener, al menos, una raíz en el intervalo [a,b]. Este método divide el intervalo en dos utilizando un tercer punto c= $\frac{a+b}{2}$. De esta forma, se darán dos posibilidades: $f(a)$ y $f(c)$, ó $f(c)$ y $f(b)$ tienen distinto signo. Se aplica este método al subintervalo donde ocurre el cambio de signo. Así se realizará tantas vecse como sea necesario para conseguir la máxima precisión.
+Supongamos que queremos encontrar las raíces de una función $f(x)$ continua. Dados dos puntos a y b, tal que $f(a)$ y $f(b)$ tengan signos distintos, sabemos por el Teorema de Bolzano que $f(x)$ debe tener, al menos, una raíz en el intervalo [a,b]. Este método divide el intervalo en dos utilizando un tercer punto c= $\frac{a+b}{2}$. De esta forma, se darán dos posibilidades: $f(a)$ y $f(c)$, ó $f(c)$ y $f(b)$ tienen distinto signo. Se aplica este método al subintervalo donde ocurre el cambio de signo. Así se realizará tantas veces como sea necesario para conseguir la máxima precisión.
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 \section{Teorema de Bolzano}
