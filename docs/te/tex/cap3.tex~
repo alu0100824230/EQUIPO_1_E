@@ -78,9 +78,9 @@ Para realizar los distintos experimentos propuestos se han utilizado como materi
 %------------------------------------------------------------------------------
 \begin{figure}[!th]
 \begin{center}
-\includegraphics[width=0.75\textwidth]{images/figura1.eps}
+\includegraphics[width=0.75\textwidth]{images/graftime.eps}
 \caption{Ejemplo de figura}
-\label{fig:1}
+\label{fig:2}
 \end{center}
 \end{figure}
 %------------------------------------------------------------------------------
@@ -103,4 +103,4 @@ En el tercer experimento se ejecutó el programa con distintos intervalos para ve
 En esta ocasión, el experimento consistía en modificar el valor del umbral y así comprobar la precisión del programa. Asimismo, al introducir 0.01,0.02,0.001 se obtienen como resultados: 0.996,0.992 y 1.00 respectivamente. Como conclusión, se puede observar como el umbral más preciso es el 0.001 seguido de 0.01 y finalmente 0.02, por ello, cuanto menor sea el valor de la tolerancia del error mejor será la aproximación de la raíz de la función.
 \subsection{Experimento 5}
 \label{3:sec:4:sec:5}
-Finalmente, este último experimento trataba de mostrar el rendimiento del programa. Para ello, primero ejecutamos el programa haciendo que nos pidiera los valores con los que se iba a ejecutar, en este caso el tiempo empleado fue $2.8133*10^-5$ segundos. Seguidamente, introduciendo los valores mediante la consola sin que el programa nos los pidiera, el tiempo  fue de $2.4080*10^-5$ segundos. Por último, introduciendo nuevamente los valores mediante la consola, lo que se llevó a cabo fue la sustitución del intervalo (-2,2) por (-10,10) en el algoritmo, con vistas de observar si aumentaba el tiempo de ejecución al probarlo con un intervalo mayor, efectivamente lo hizo, obteniéndose un tiempo de $3.1948*10^-5$    
+Finalmente, este último experimento trataba de mostrar el rendimiento del programa. Para ello, primero ejecutamos el programa haciendo que nos pidiera los valores con los que se iba a ejecutar, en este caso el tiempo empleado fue $2.8133*10^-5$ segundos. Seguidamente, introduciendo los valores mediante la consola sin que el programa nos los pidiera, el tiempo  fue de $2.4080*10^-5$ segundos. Por último, introduciendo nuevamente los valores mediante la consola, lo que se llevó a cabo fue la sustitución del intervalo (-2,2) por (-10,10) en el algoritmo, con vistas de observar si aumentaba el tiempo de ejecución al probarlo con un intervalo mayor, efectivamente lo hizo, obteniéndose un tiempo de $3.1948*10^-5$.    

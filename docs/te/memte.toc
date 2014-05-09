@@ -27,7 +27,7 @@
 \contentsline {chapter}{\numberline {A}T\IeC {\'\i }tulo del Ap\'endice 1}{11}
 \contentsline {section}{\numberline {A.1}Algoritmo XXX}{11}
 \contentsline {section}{\numberline {A.2}Algoritmo YYY}{11}
-\contentsline {chapter}{\numberline {B}T\IeC {\'\i }tulo del Ap\'endice 2}{12}
-\contentsline {section}{\numberline {B.1}Otro apendice: Seccion 1}{12}
-\contentsline {section}{\numberline {B.2}Otro apendice: Seccion 2}{12}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{12}
+\contentsline {chapter}{\numberline {B}T\IeC {\'\i }tulo del Ap\'endice 2}{13}
+\contentsline {section}{\numberline {B.1}Otro apendice: Seccion 1}{13}
+\contentsline {section}{\numberline {B.2}Otro apendice: Seccion 2}{13}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{13}
