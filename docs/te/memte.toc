@@ -28,6 +28,6 @@
 \contentsline {section}{\numberline {A.1}Algoritmo Metodo de Biseccion}{11}
 \contentsline {section}{\numberline {A.2}Algoritmo Hardware y Software}{12}
 \contentsline {chapter}{\numberline {B}T\IeC {\'\i }tulo del Ap\'endice 2}{14}
-\contentsline {section}{\numberline {B.1}Otro apendice: Seccion 1}{14}
-\contentsline {section}{\numberline {B.2}Otro apendice: Seccion 2}{14}
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{14}
+\contentsline {section}{\numberline {B.1}Algoritmo Grafica de la funcion}{14}
+\contentsline {section}{\numberline {B.2}Algoritmo Grafica del tiempo}{14}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{15}
