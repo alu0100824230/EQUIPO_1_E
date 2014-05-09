@@ -24,10 +24,10 @@
 \contentsline {subsection}{\numberline {3.4.4}Experimento 4}{8}
 \contentsline {subsection}{\numberline {3.4.5}Experimento 5}{8}
 \contentsline {chapter}{\numberline {4}Conclusiones}{9}
-\contentsline {chapter}{\numberline {A}T\IeC {\'\i }tulo del Ap\'endice 1}{11}
+\contentsline {chapter}{\numberline {A}Algoritmos de bisecci\'on y hardware y software}{11}
 \contentsline {section}{\numberline {A.1}Algoritmo Metodo de Biseccion}{11}
 \contentsline {section}{\numberline {A.2}Algoritmo Hardware y Software}{12}
-\contentsline {chapter}{\numberline {B}T\IeC {\'\i }tulo del Ap\'endice 2}{14}
+\contentsline {chapter}{\numberline {B}Algoritmos de gr\'aficas}{14}
 \contentsline {section}{\numberline {B.1}Algoritmo Grafica de la funcion}{14}
 \contentsline {section}{\numberline {B.2}Algoritmo Grafica del tiempo}{14}
 \contentsline {chapter}{Bibliograf\IeC {\'\i }a}{15}

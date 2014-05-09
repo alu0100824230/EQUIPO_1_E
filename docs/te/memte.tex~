@@ -201,12 +201,12 @@ demostraciones correspondientes, que han servido para demostrar el método utiliz
 \thispagestyle{empty}
 \begin{appendix}
 
-\chapter{Título del Apéndice 1}
+\chapter{Algoritmos de bisección y hardware y software}
 \label{appendix:1}
 
 \input{tex/apendice1.tex}
 
-\chapter{Título del Apéndice 2}
+\chapter{Algoritmos de gráficas}
 \label{appendix:2}
 
 \input{tex/apendice2.tex}
