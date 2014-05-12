@@ -1,7 +1,8 @@
 \beamer@endinputifotherversion {3.10pt}
-\beamer@sectionintoc {1}{Objetivos}{8}{0}{1}
-\beamer@sectionintoc {2}{Fundamentos te\IeC {\'o}ricos}{10}{0}{2}
-\beamer@sectionintoc {3}{Procedimiento experimental}{14}{0}{3}
-\beamer@sectionintoc {4}{Algoritmo}{24}{0}{4}
-\beamer@sectionintoc {5}{Gr\IeC {\'a}ficas}{24}{0}{5}
-\beamer@sectionintoc {6}{Bibliograf\IeC {\'\i }a}{27}{0}{6}
+\beamer@sectionintoc {1}{Objetivos}{9}{0}{1}
+\beamer@sectionintoc {2}{Fundamentos te\IeC {\'o}ricos}{11}{0}{2}
+\beamer@sectionintoc {3}{Procedimiento experimental}{15}{0}{3}
+\beamer@sectionintoc {4}{Algoritmo}{25}{0}{4}
+\beamer@sectionintoc {5}{Gr\IeC {\'a}ficas}{25}{0}{5}
+\beamer@sectionintoc {6}{Conclusiones}{28}{0}{6}
+\beamer@sectionintoc {7}{Bibliograf\IeC {\'\i }a}{33}{0}{7}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.7.26)  9 MAY 2014 16:17
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.3.12)  12 MAY 2014 11:03
 entering extended mode
  %&-line parsing enabled.
 **presentacion.tex
@@ -1073,7 +1073,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 ] (./presentacion.toc)
 [7
 
-] [8
+] (./presentacion.toc) [8
 
 ] [9
 
@@ -1093,7 +1093,8 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [17
 
-] [18
+]
+[18
 
 ] [19
 
@@ -1101,26 +1102,35 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [21
 
-]
-[22
+] [22
 
 ] [23
+
+] [24
 
 ]
 File: graftime.eps Graphic file (type eps)
  <graftime.eps>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24
+ [25
 
 ]
-[25]
+[26]
 File: grafcap2.eps Graphic file (type eps)
- <grafcap2.eps> [26
+ <grafcap2.eps> [27
+
+] [28
+
+] [29
+
+] [30
+
+] [31
+
+] [32
 
 ]
-File: beamericonarticle.eps Graphic file (type eps)
- <beamericonarticle.eps>
 File: beamericonarticle.eps Graphic file (type eps)
  <beamericonarticle.eps>
 File: beamericonarticle.eps Graphic file (type eps)
@@ -1130,7 +1140,10 @@ File: beamericonarticle.eps Graphic file (type eps)
  <beamericonarticle.eps>
 File: beamericonarticle.eps Graphic file (type eps)
  <beamericonarticle.eps>
-Overfull \hbox (28.30594pt too wide) in paragraph at lines 285--285
+File: beamericonarticle.eps Graphic file (type eps)
+
+<beamericonarticle.eps>
+Overfull \hbox (28.30594pt too wide) in paragraph at lines 303--303
 \OML/cmm/m/it/6 ==\OT1/cmss/m/it/6 campusvirtual\OML/cmm/m/it/6 :\OT1/cmss/m/it
 /6 ull\OML/cmm/m/it/6 :\OT1/cmss/m/it/6 es\OML/cmm/m/it/6 =\OT1/cmss/m/n/6 1314
 \OML/cmm/m/it/6 =\OT1/cmss/m/it/6 plugin^^Lle\OML/cmm/m/it/6 :\OT1/cmss/m/it/6 
@@ -1142,7 +1155,7 @@ m/it/6 General\OT1/cmss/m/n/6 2012\OML/cmm/m/it/6 =\OT1/cmss/m/it/6 Python[]ara
  []
 
 File: beamericonarticle.eps Graphic file (type eps)
-<beamericonarticle.eps> [27
+<beamericonarticle.eps> [33
 
 ]
 \tf@nav=\write6
@@ -1164,12 +1177,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 14682 strings out of 495062
- 275381 string characters out of 1182644
+ 14736 strings out of 495062
+ 276862 string characters out of 1182644
  344790 words of memory out of 3000000
- 17444 multiletter control sequences out of 15000+50000
+ 17496 multiletter control sequences out of 15000+50000
  16301 words of font info for 61 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  49i,17n,60p,496b,723s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on presentacion.dvi (27 pages, 369156 bytes).
+Output written on presentacion.dvi (33 pages, 465168 bytes).

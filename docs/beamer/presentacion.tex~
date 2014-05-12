@@ -254,6 +254,21 @@ else:
 \end{center}
 \end{figure}
 \end{frame}
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+\section{Conclusiones}
+\begin{frame}
+
+\begin{enumerate}
+\item {\LARGE Eficacia para la función propuesta.}
+\item {\LARGE Conflicto en casos de funciones con más de una raíz.}
+\item {\LARGE Casos de dos raíces o más:}
+
+\begin{itemize}
+\item Escoger distintos intervalos.
+\item Raíz única dentro de cada uno de los intervalos.
+\end{itemize}
+\end{enumerate}
+\end{frame}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 \section{Bibliografía}
 %++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
